@@ -10,6 +10,7 @@
 
 
 # Task 1: Building a Transaction Database in Google Big Query
+
 # Google Big Query is a distributed data warehouse built on a serverless architecture . In this task you’ll upload all Wedge transaction records to Google Big Query. You’ll want to make sure that the column data types are correctly specified and you’ve properly handled the null values. 
 
 
@@ -23,7 +24,7 @@
 
 # Task 3: Building Summary Tables
 
-# It is useful to have summary files that allow you to quickly answer questions such as the following:
+It is useful to have summary files that allow you to quickly answer questions such as the following:
 •	How have our sales-by-day changed over the last few months?
 •	What is our most popular item in each department?
 •	Which owners spend the most per month in each department?
